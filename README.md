@@ -11,10 +11,10 @@ May be the proof of me accually knowing a bit about this package.
 7. Merging data from many data frames.
 8. Diagrams.
 # Conclusions
-+:
++ :
 good knowledge from basics,
 nice diagrams explanations (specially boxplot),
 some useful methods.
--:
+- :
 a bit too long - 14 hours,
 a bit too easy.
