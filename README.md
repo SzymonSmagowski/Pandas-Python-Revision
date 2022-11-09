@@ -1,6 +1,11 @@
 # Pandas-Python-Revision
 These are lessons I have completed during pandas course on Udemy ;))
+
 May be the proof of me accually knowing a bit about this package.
+
+Course: https://www.udemy.com/course/analiza-danych-w-python-i-pandas/
+
+Unfortunately I can't paste link to source files, but it does not matter - did html view of code.
 # Course chapters:
 1. Preparing environment.
 2. Data series.
