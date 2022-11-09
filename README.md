@@ -12,9 +12,15 @@ May be the proof of me accually knowing a bit about this package.
 8. Diagrams.
 # Conclusions
 PLUS:
+
 good knowledge from basics,
+
 nice diagrams explanations (specially boxplot),
+
 some useful methods.
+
 MINUS:
+
 a bit too long - 14 hours,
+
 a bit too easy.
