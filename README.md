@@ -13,7 +13,7 @@ May be the proof of me accually knowing a bit about this package.
 # Conclusions
 +:
 good knowledge from basics,
-nice diagrams explanations - specially boxplot,
+nice diagrams explanations (specially boxplot),
 some useful methods.
 -:
 a bit too long - 14 hours,
